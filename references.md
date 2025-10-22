@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+- This is **my-resume** version of references.md
+- My name is: cecilia
+
+
